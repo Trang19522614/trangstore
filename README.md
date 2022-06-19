@@ -1,8 +1,9 @@
 # Trang's shop project
-Xây dựng website bán hàng sử dụng Nodejs + Express + Mongoose
-Các kỹ thuật sử dụng: 
-- Giỏ hàng sử dụng localStorage, sync cart từ session vào DB của user
-- TÌm kiếm , lọc sản phẩm
-- hiển thị thông tin sản phẩm, đánh giá sản phẩm
+Đây là website bán hàng của Trang sử dụng Nodejs + Express, và mongo db để kết nối database
+Các chức năng đã xây dựng: 
 - Mail xác thực tài khoản và reset mật khẩu
-Kèm một số chức năng khác
+- hiển thị thông tin sản phẩm, đánh giá sản phẩm
+- Giỏ hàng sử dụng localStorage, synchronize thông tin giỏ hàng từ session vào DB của user
+- Tìm kiếm , lọc sản phẩm
+Và một số chức năng khác
+Rất mong nhận được góp ý về cải tiến và xây dựng thêm chức năng của các bạn
